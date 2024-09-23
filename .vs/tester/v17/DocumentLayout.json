@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO THINKPAD\\source\\repos\\tester\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4567CE15-1773-4B10-96F1-1D20E816E511}|tester\\tester.csproj|c:\\users\\lenovo thinkpad\\source\\repos\\tester\\tester\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4567CE15-1773-4B10-96F1-1D20E816E511}|tester\\tester.csproj|solutionrelative:tester\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4567CE15-1773-4B10-96F1-1D20E816E511}|tester\\tester.csproj|c:\\users\\lenovo thinkpad\\source\\repos\\tester\\tester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4567CE15-1773-4B10-96F1-1D20E816E511}|tester\\tester.csproj|solutionrelative:tester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO THINKPAD\\source\\repos\\tester\\tester\\Program.cs",
+              "RelativeDocumentMoniker": "tester\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO THINKPAD\\source\\repos\\tester\\tester\\Program.cs",
+              "RelativeToolTip": "tester\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:16:23.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO THINKPAD\\source\\repos\\tester\\tester\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "tester\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\LENOVO THINKPAD\\source\\repos\\tester\\tester\\Controllers\\UserController.cs",
+              "RelativeToolTip": "tester\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T23:19:09.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
